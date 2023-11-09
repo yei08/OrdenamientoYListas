@@ -1,0 +1,90 @@
+Categoría: Ropa
+Producto: Producto2
+Código: 002
+Marca: Marca2
+Color: Azul
+Precio de compra: 15.0
+Precio de venta: 25.0
+Porcentaje de descuento máximo: 15.0
+Unidades en existencia: 30
+Métrica de medida: unidad
+Categoría: Ropa
+
+Producto: pantalon
+Código: 006
+Marca: Marca6
+Color: morado
+Precio de compra: 30000.0
+Precio de venta: 50000.0
+Porcentaje de descuento máximo: 15.0
+Unidades en existencia: 25
+Métrica de medida: unidad
+Categoría: Ropa
+
+Producto: sueter
+Código: 004
+Marca: Marca4
+Color: Azul
+Precio de compra: 50000.0
+Precio de venta: 60000.0
+Porcentaje de descuento máximo: 15.0
+Unidades en existencia: 30
+Métrica de medida: unidad
+Categoría: Ropa
+
+Producto: zandalias
+Código: 0033
+Marca: Marca2
+Color: Azul
+Precio de compra: 15.0
+Precio de venta: 25.0
+Porcentaje de descuento máximo: 15.0
+Unidades en existencia: 30
+Métrica de medida: unidad
+Categoría: Ropa
+
+Categoría: Electrónica
+Producto: Producto1
+Código: 001
+Marca: Marca1
+Color: Rojo
+Precio de compra: 10.0
+Precio de venta: 20.0
+Porcentaje de descuento máximo: 10.0
+Unidades en existencia: 50
+Métrica de medida: unidad
+Categoría: Electrónica
+
+Producto: celular
+Código: 003
+Marca: Marca3
+Color: Rojo
+Precio de compra: 500000.0
+Precio de venta: 700000.0
+Porcentaje de descuento máximo: 10.0
+Unidades en existencia: 50
+Métrica de medida: unidad
+Categoría: Electrónica
+
+Producto: drone
+Código: 0045
+Marca: Marca1
+Color: Rojo
+Precio de compra: 10.0
+Precio de venta: 20.0
+Porcentaje de descuento máximo: 10.0
+Unidades en existencia: 50
+Métrica de medida: unidad
+Categoría: Electrónica
+
+Producto: tablet
+Código: 005
+Marca: Marca5
+Color: verde
+Precio de compra: 200000.0
+Precio de venta: 300000.0
+Porcentaje de descuento máximo: 10.0
+Unidades en existencia: 50
+Métrica de medida: unidad
+Categoría: Electrónica
+
